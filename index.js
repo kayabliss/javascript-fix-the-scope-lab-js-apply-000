@@ -11,7 +11,6 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   console.log('cat');
   return animal;
-  console.log('cat');
 }
 
 function add2(n) {
